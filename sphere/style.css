@@ -1,0 +1,19 @@
+body{
+    margin: 3rem;
+}
+.sphere{
+    color:blue; 
+    background-color: antiquewhite;
+    height: 60vh;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sphere p{
+    color: brown;
+}
+label, input{
+    display:flex;
+    margin: 1rem 0;
+} 

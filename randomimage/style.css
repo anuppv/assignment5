@@ -1,0 +1,22 @@
+body{
+    margin: 1rem;
+}
+.random{
+    color: blue;
+    background-color: antiquewhite;
+    height: auto;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+.random p{
+    color: brown;
+}
+img{
+    display: block;
+}
+button{
+    padding: 7px;
+}

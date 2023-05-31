@@ -1,0 +1,27 @@
+body{
+    margin: 3rem;
+}
+.remove{
+    color:blue; 
+    background-color: antiquewhite;
+    height: 30vh;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
+.remove p{
+    color: brown;
+}
+.selection{
+    display: flex;
+    justify-content: center;
+}
+.selection input{
+    color: #fff;
+    background-color: brown;
+    border-color: #fff;
+    margin-left: 1rem;
+    padding: 5px;
+}
+
